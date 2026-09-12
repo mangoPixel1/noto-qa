@@ -1,0 +1,26 @@
+{
+  "name": "noto-qa",
+  "version": "1.0.0",
+  "description": "- testing - testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mangoPixel1/noto-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mangoPixel1/noto-qa/issues"
+  },
+  "homepage": "https://github.com/mangoPixel1/noto-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "dotenv": "^17.4.2"
+  }
+}
